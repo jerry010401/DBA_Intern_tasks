@@ -28,7 +28,7 @@ fundamental database concepts, SQL, Git and GitHub workflows.
 
 ## Database
 
-Database: dba_internship
+Database: employees_management
 
 Table: employees
 
